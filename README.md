@@ -2,7 +2,7 @@
 
 This is a movie api with jwt for authentication built with Node js, Express js, MongoDB
 
-![screenshot](./asset/vids/auth.js%20-%20api%20-%20Visual%20Studio%20Code%202022-08-21%2016-28-31.mp4)
+![screenshot](./asset/img/Vscode.png)
 
 ## Getting Started
 
@@ -23,9 +23,6 @@ $ some more screenshots
 
 $ some more screenshots
 ![screenshot](./asset/img/MongoDB.png)
-
-$ some more screenshots
-![screenshot](./asset/vids/Data%20_%20Cloud_%20MongoDB%20Cloud%20-%20Google%20Chrome%202022-08-21%2016-27-42.mp4)
 
 ```
 
